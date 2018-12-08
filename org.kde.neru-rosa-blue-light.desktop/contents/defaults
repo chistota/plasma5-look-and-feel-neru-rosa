@@ -1,0 +1,29 @@
+[kdeglobals][KDE]
+widgetStyle=kvantum
+
+[kdeglobals][General]
+ColorScheme=NeruRosaLight
+
+[kdeglobals][Icons]
+Theme=neru-classic-light
+
+[plasmarc][Theme]
+name=neru-rosa-blue-light-desktop
+
+[kcminputrc][Mouse]
+cursorTheme=breeze_cursors
+
+#Ссылка на тему 
+[kwinrc][DesktopSwitcher]
+LayoutName=org.kde.neru-rosa-blue-light.desktop
+
+#Привязка верхней панели 
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__NeruAurоrаеLightBlue
+
+#Привязка стиля графического элемента 
+[kdeglobals][KDE] 
+widgetStyle=QtCurve
+
+
