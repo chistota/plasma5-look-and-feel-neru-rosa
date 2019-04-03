@@ -45,7 +45,7 @@ Image {
             color: "#fff" //Цвет фона прогресс бара
             anchors {
                 bottom: parent.bottom
-                bottomMargin: 50  //Расстояние прогресс бара от логотипа
+                bottomMargin: 70  //Расстояние прогресс бара от логотипа
                 horizontalCenter: parent.horizontalCenter
             }
             height: 10 //Высота прогресс бара
